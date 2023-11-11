@@ -24,7 +24,7 @@ Experienced in app development and maintaining both Hardware and Software, inclu
 
 
 ### Check out my work
-- 👨‍💻 You can explore all my projects at [My Resume(https://github.com/Therdsakmax050941/Therdsakmax050941/files/13324544/Resume_Therdsak1.pdf.pdf)
+- 👨‍💻 You can explore all my projects at [My Resume Click to Download](https://github.com/Therdsakmax050941/Therdsakmax050941/files/13324544/Resume_Therdsak1.pdf.pdf)
 
 
 
