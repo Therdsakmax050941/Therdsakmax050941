@@ -1,4 +1,4 @@
-## Hi there, I'm Ekkasit Ponkhunthod! 👋
+## Hi there, I'm Therdsak Piwongul! 👋
 
 ### About Me
 I've been diving into Fullstack development for the past 1 year, focusing on mastering Nuxt.js, OOP PHP, Node, Vue, MySQL  and MongoDB. I've recently completed projects including:
