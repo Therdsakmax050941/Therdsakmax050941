@@ -9,7 +9,7 @@ I've been diving into Fullstack development for the past 1 year, focusing on mas
 - 🌱 Currently, I'm delving deeper into Next.js and TypeScript to enhance my skill set.
 
 ### Check out my work
-- 👨‍💻 You can explore all my projects at [My Portfolio(https://github.com/Therdsakmax050941/Therdsakmax050941/files/13324544/Resume_Therdsak1.pdf.pdf)
+- 👨‍💻 You can explore all my projects at [My Portfolio](https://github.com/Therdsakmax050941/Therdsakmax050941/files/13324544/Resume_Therdsak1.pdf.pdf)
 
 
 ### Get in Touch
