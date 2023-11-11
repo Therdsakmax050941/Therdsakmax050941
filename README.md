@@ -1,15 +1,15 @@
 ## Greetings! I'm Therdsak Max 👋
 
 ### Skills
-- VueJS
-- NuxtJS
-- PHP
-- React
-- NodeJS
-- MySQL
-- MongoDB
-- Bootstrap 5
-- Quasar
+ - VueJS
+ - NuxtJS
+ - PHP
+ - React
+ - NodeJS
+ - MySQL
+ - MongoDB
+ - Bootstrap 5
+ - Quasar
 
 ### Experience
 Experienced in developing online systems for restaurants with a login system for customer data and marketing purposes.
