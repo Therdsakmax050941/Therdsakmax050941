@@ -1,7 +1,7 @@
 ## Hi there, I'm Ekkasit Ponkhunthod! 👋
 
 ### About Me
-I've been diving into Fullstack development for the past 6 months, focusing on mastering Next.js, React, Node, and MongoDB. I've recently completed projects including:
+I've been diving into Fullstack development for the past 1 year, focusing on mastering Nuxt.js, OOP PHP, Node, Vue, MySQL  and MongoDB. I've recently completed projects including:
 - 🛒 Building an efficient and user-friendly online shopping platform for clothing, complete with a convenient shopping cart (E-Commerce, October 2023)
 - 🐾 Developing a website for pet boarding services with a booking system, allowing users to easily schedule pet boarding (Pet Sitter, September 2023)
 
@@ -9,10 +9,11 @@ I've been diving into Fullstack development for the past 6 months, focusing on m
 - 🌱 Currently, I'm delving deeper into Next.js and TypeScript to enhance my skill set.
 
 ### Check out my work
-- 👨‍💻 You can explore all my projects at [My Portfolio](https://resume-ekkasit.vercel.app/projects)
+- 👨‍💻 You can explore all my projects at [My Portfolio(https://github.com/Therdsakmax050941/Therdsakmax050941/files/13324544/Resume_Therdsak1.pdf.pdf)
+
 
 ### Get in Touch
-- 📫 Reach me at ekkasitprivate@gmail.com
+- 📫 Reach me at therdsksonte2@gmail.com
 - 📄 Explore my experiences and projects: [My Portfolio](https://resume-ekkasit.vercel.app/)
 
 ### Connect with me
