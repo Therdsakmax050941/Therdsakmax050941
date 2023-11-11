@@ -1,12 +1,26 @@
-## Hi there, I'm Therdsak Piwongul! 👋
+## Greetings! I'm Therdsak Max 👋
 
-### About Me
-I've been diving into Fullstack development for the past 1 year, focusing on mastering Nuxt.js, OOP PHP, Node, Vue, MySQL  and MongoDB. I've recently completed projects including:
-- 🛒 Building an efficient and user-friendly online shopping platform for clothing, complete with a convenient shopping cart (E-Commerce, October 2023)
-- 🐾 Developing a website for pet boarding services with a booking system, allowing users to easily schedule pet boarding (Pet Sitter, September 2023)
+### Skills
+- VueJS
+- PHP
+- React
+- NodeJS
+- MySQL
+- MongoDB
+- Bootstrap 5
+- Quasar
 
-### What I'm up to
-- 🌱 Currently, I'm delving deeper into Next.js and TypeScript to enhance my skill set.
+### Experience
+Experienced in developing online systems for restaurants with a login system for customer data and marketing purposes.
+Proficient in creating server-share data systems for online sales within an organization or business.
+Skilled in developing Websites, Web blogs, Hotel Websites, and more.
+Experienced in app development and maintaining both Hardware and Software, including various programming and implementing data security systems within an organization or business.
+
+### Work Experience
+- May '23 - Present: Idea Initiation Company
+  - Position: Junior full stack web developer
+  - Responsibilities: Developing various systems including websites and web applications, closely working with the foundational team.
+
 
 ### Check out my work
 - 👨‍💻 You can explore all my projects at [My Resume(https://github.com/Therdsakmax050941/Therdsakmax050941/files/13324544/Resume_Therdsak1.pdf.pdf)
