@@ -33,7 +33,11 @@ Experienced in app development and maintaining both Hardware and Software, inclu
 
 ### Languages and Tools
 I'm skilled in Bootstrap, CSS3, Django, Express, Figma, Git, HTML5, JavaScript, MongoDB, MySQL, Next.js, Node.js, PostgreSQL, Postman, Python, React, Redux, Tailwind, and TypeScript.
-
+### My Tech Stack
+<div align="center">
+  <img src="https://.../bootstrap-icon.png" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://.../css3-icon.png" alt="CSS3" width="50" height="50"/>
+</div>
 
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Therdsakmax050941&show_icons=true&theme=dark)
