@@ -38,6 +38,7 @@ I'm skilled in Bootstrap, CSS3, VueJS, Express, Figma, Git, HTML5, JavaScript, P
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Therdsakmax050941&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Therdsakmax050941&layout=donut&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Therdsakmax050941&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Various Certificates
