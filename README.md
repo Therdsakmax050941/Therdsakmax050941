@@ -29,7 +29,6 @@ Experienced in app development and maintaining both Hardware and Software, inclu
 
 ### Connect with me
 - Connect on [LINE@therdsak124]
-- Follow me on [Twitter](Your Twitter Profile)
 
 ### Languages and Tools
 I'm skilled in Bootstrap, CSS3, Django, Express, Figma, Git, HTML5, JavaScript, MongoDB, MySQL, Next.js, Node.js, PostgreSQL, Postman, Python, React, Redux, Tailwind, and TypeScript.
