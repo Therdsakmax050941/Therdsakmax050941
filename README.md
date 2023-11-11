@@ -26,9 +26,6 @@ Experienced in app development and maintaining both Hardware and Software, inclu
 - 👨‍💻 You can explore all my projects at [My Resume(https://github.com/Therdsakmax050941/Therdsakmax050941/files/13324544/Resume_Therdsak1.pdf.pdf)
 
 
-### Get in Touch
-- 📫 Reach me at therdsksonte2@gmail.com
-- 📄 Explore my experiences and projects: [My Resume(https://github.com/Therdsakmax050941/Therdsakmax050941/files/13324544/Resume_Therdsak1.pdf.pdf)
 
 ### Connect with me
 - Connect on [LinkedIn](Your LinkedIn Profile)
