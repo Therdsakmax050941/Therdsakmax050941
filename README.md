@@ -28,13 +28,12 @@ Experienced in app development and maintaining both Hardware and Software, inclu
 
 
 ### Connect with me
-- Connect on [LinkedIn](Your LinkedIn Profile)
+- Connect on [LINE@therdsak124]
 - Follow me on [Twitter](Your Twitter Profile)
 
 ### Languages and Tools
 I'm skilled in Bootstrap, CSS3, Django, Express, Figma, Git, HTML5, JavaScript, MongoDB, MySQL, Next.js, Node.js, PostgreSQL, Postman, Python, React, Redux, Tailwind, and TypeScript.
-### My Tech Stack
-[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+
 
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Therdsakmax050941&show_icons=true&theme=dark)
