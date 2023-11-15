@@ -33,8 +33,9 @@ Experienced in app development and maintaining both Hardware and Software, inclu
 
 ### Various Certificates
 <div align="left">
-    <img src="https://github.com/Therdsakmax050941/Therdsakmax050941/assets/123248982/9bcbdcbb-dfec-425a-981f-840041fb267a" alt="Image 1" style="width:50%;">
-    <img src="https://github.com/Therdsakmax050941/Therdsakmax050941/assets/123248982/c8cb1479-6e4d-45e7-b3ad-ae3a189e4d04" alt="Image 2" style="width:50%;">
+    <img src="https://raw.githubusercontent.com/Therdsakmax050941/Therdsakmax050941/main/assets/123248982/9bcbdcbb-dfec-425a-981f-840041fb267a.png" alt="Image 1" style="width:50%;">
+    <img src="https://raw.githubusercontent.com/Therdsakmax050941/Therdsakmax050941/main/assets/123248982/c8cb1479-6e4d-45e7-b3ad-ae3a189e4d04.png" alt="Image 2" style="width:50%;">
 </div>
+
 
 
