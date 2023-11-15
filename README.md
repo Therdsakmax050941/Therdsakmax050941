@@ -33,3 +33,5 @@ Experienced in app development and maintaining both Hardware and Software, inclu
 
 ### Various Certificates
 ![cer](https://github.com/Therdsakmax050941/Therdsakmax050941/assets/123248982/9bcbdcbb-dfec-425a-981f-840041fb267a)
+![borntodev-acdemy_Introduction to JavaScript_certifiacte](https://github.com/Therdsakmax050941/Therdsakmax050941/assets/123248982/c8cb1479-6e4d-45e7-b3ad-ae3a189e4d04)
+
