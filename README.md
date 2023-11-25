@@ -13,9 +13,9 @@ Experienced in app development and maintaining both Hardware and Software, inclu
   - Responsibilities: Developing various systems including websites and web applications, closely working with the foundational team.
 
 
-### Check out my work
+### Check out my work https://therdsakmax050941.github.io
 - 👨‍💻 You can explore all my projects at [My Resume Click to Download](https://github.com/Therdsakmax050941/Therdsakmax050941/files/13324544/Resume_Therdsak1.pdf.pdf)
-
+😎 My Web Site  [My Resume Click to Download](https://therdsakmax050941.github.io)
 
 
 ### Connect with me
